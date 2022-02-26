@@ -1,6 +1,6 @@
 [submodule "contracts"]
 	path = contracts
-	url = git@github.com:HyperledgerHandsOn/trade-contracts.git
+	url = git@github.com:truongdk/trade-contracts.git
 [submodule "apps"]
 	path = apps
-	url = git@github.com:HyperledgerHandsOn/trade-apps.git
+	url = git@github.com:truongdk/trade-apps.git
