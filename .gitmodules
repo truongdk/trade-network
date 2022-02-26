@@ -1,6 +1,6 @@
 [submodule "contracts"]
 	path = contracts
-	url = git@github.com:truongdk/trade-contracts.git
+	url = https://github.com/truongdk/trade-contracts.git
 [submodule "apps"]
 	path = apps
-	url = git@github.com:truongdk/trade-apps.git
+	url = https://github.com/truongdk/trade-apps.git
